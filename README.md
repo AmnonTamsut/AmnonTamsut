@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Amnon, i'm a first year computer science student in Bar-Ilan University.
+Here you can find both personal and academic projects.
 
 
 <!--
