@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Amnon, i'm a first year computer science student in Bar-Ilan University.
+
 
 <!--
 **AmnonTamsut/AmnonTamsut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
