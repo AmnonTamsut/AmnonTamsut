@@ -1,6 +1,6 @@
-<h1>This is heading 1</h1>
-<h2>This is heading 2</h2>
-<h3>This is heading 3</h3>
-<h4>This is heading 4</h4>
-<h5>This is heading 5</h5>
-<h6>This is heading 6</h6>
+
+<h2>Chess Game project</h2>
+
+
+A Chess Analysis Board game written in C, designed to evaluate a given <a href="https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation">FEN</a>
+ moves, determine their validity & eventually apply the move.
