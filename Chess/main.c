@@ -25,7 +25,7 @@ int main(int argc, char const* argv[]) {
     int gameLength;
     char fen[MAX_FEN_LEN];
     char pgn[MAX_GAME_LEN][MAX_PGN_LEN];
-    readGame("C:\\Users\\Amnon\\source\\repos\\ass4\\ass4\\8 board cases - splitted\\long-2.txt", fen, pgn, &gameLength);
+    readGame("\\8 board cases - splitted\\long-2.txt", fen, pgn, &gameLength);
     // printGame(fen, pgn, gameLength);
 
     char board[SIZE][SIZE];
