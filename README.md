@@ -1,9 +1,9 @@
 ### Hi there 👋
-My name is Amnon, i'm a 2nd year computer science student in Bar-Ilan University.
+My name is Amnon, i'm a 2nd year computer science student.
 
 Here you can find both personal and academic projects.
 
-- 🌱 I’m currently studying Algorithms, Algebraic Structures & Intro to Probabillity
+- 🌱 I’m currently studying Algorithms & Intro to Probabillity
 - 📫 How to reach me: AmnonTamsut66@gmail.com
 
 
