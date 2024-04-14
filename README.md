@@ -1,3 +1,7 @@
+
+
+
+<!--
 ### Hi there 👋
 My name is Amnon, I'm a 2nd-year computer science student.
 
@@ -5,9 +9,6 @@ Here you can find both personal and academic projects.
 
 - 🌱 I’m currently studying Algorithms 2 & Advanced programming
 - 📫 How to reach me: AmnonTamsut66@gmail.com
-
-
-<!--
 **AmnonTamsut/AmnonTamsut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
